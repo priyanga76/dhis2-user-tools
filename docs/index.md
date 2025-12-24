@@ -3,8 +3,8 @@
 Utilities for exploring **DHIS2 users, roles, authorities, and user groups**.
 
 ## Start here
-- ⚡ **Quick Start**: Quick operational workflow
-- 📘 **User Guide**: Full documentation
+- ⚡ **Quick Start**: See [*Quick Start Guide*](quick-start/Quick_Start_v1.0.md) for Quick operational workflow
+- 📘 **User Guide**: See [*Full User Guide*](user-guide/Org_Unit_Sync_User_Guide_v1.0.md) for Detailed instructions
 
 ## Key features
 - User Role Viewer (filter active users, pagination, CSV export)
