@@ -1,0 +1,23 @@
+site_name: DHIS2 User Tools – Documentation
+site_description: User documentation for the DHIS2 User Tools app
+site_url: https://priyanga76.github.io/dhis2-user-tools/
+repo_url: https://github.com/priyanga76/dhis2-user-tools
+repo_name: priyanga76/dhis2-user-tools
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Quick Start: quick-start/Quick_Start_v1.0.md
+  - User Guide: user-guide/User_Guide_v1.0.md
